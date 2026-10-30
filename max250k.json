@@ -1,0 +1,8 @@
+{
+  "exclude": [
+    "./.git",
+    "./target",
+    "./max250k.json"
+  ],
+  "log_level": "info"
+}
